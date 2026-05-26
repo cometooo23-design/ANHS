@@ -1,0 +1,525 @@
+{
+  "YEARS": [
+    "2021-2022",
+    "2022-2023",
+    "2023-2024",
+    "2024-2025",
+    "2025-2026"
+  ],
+  "enrollment": {
+    "2021-2022": {
+      "G7": {
+        "m": 135,
+        "f": 128
+      },
+      "G8": {
+        "m": 127,
+        "f": 117
+      },
+      "G9": {
+        "m": 152,
+        "f": 135
+      },
+      "G10": {
+        "m": 137,
+        "f": 139
+      },
+      "G11": {
+        "m": 97,
+        "f": 81
+      },
+      "G12": {
+        "m": 79,
+        "f": 53
+      }
+    },
+    "2022-2023": {
+      "G7": {
+        "m": 133,
+        "f": 113
+      },
+      "G8": {
+        "m": 126,
+        "f": 124
+      },
+      "G9": {
+        "m": 124,
+        "f": 112
+      },
+      "G10": {
+        "m": 149,
+        "f": 124
+      },
+      "G11": {
+        "m": 77,
+        "f": 76
+      },
+      "G12": {
+        "m": 85,
+        "f": 82
+      }
+    },
+    "2023-2024": {
+      "G7": {
+        "m": 104,
+        "f": 98
+      },
+      "G8": {
+        "m": 129,
+        "f": 109
+      },
+      "G9": {
+        "m": 120,
+        "f": 120
+      },
+      "G10": {
+        "m": 117,
+        "f": 104
+      },
+      "G11": {
+        "m": 110,
+        "f": 65
+      },
+      "G12": {
+        "m": 67,
+        "f": 75
+      }
+    },
+    "2024-2025": {
+      "G7": {
+        "m": 151,
+        "f": 100
+      },
+      "G8": {
+        "m": 118,
+        "f": 100
+      },
+      "G9": {
+        "m": 143,
+        "f": 120
+      },
+      "G10": {
+        "m": 126,
+        "f": 133
+      },
+      "G11": {
+        "m": 98,
+        "f": 84
+      },
+      "G12": {
+        "m": 103,
+        "f": 66
+      }
+    },
+    "2025-2026": {
+      "G7": {
+        "m": 167,
+        "f": 142
+      },
+      "G8": {
+        "m": 147,
+        "f": 101
+      },
+      "G9": {
+        "m": 108,
+        "f": 100
+      },
+      "G10": {
+        "m": 124,
+        "f": 122
+      },
+      "G11": {
+        "m": 85,
+        "f": 115
+      },
+      "G12": {
+        "m": 96,
+        "f": 82
+      }
+    }
+  },
+  "promoRates": {
+    "2021-2022": {
+      "G7": {
+        "m": 98.52,
+        "f": 100
+      },
+      "G8": {
+        "m": 100,
+        "f": 100
+      },
+      "G9": {
+        "m": 100,
+        "f": 100
+      },
+      "G10": {
+        "m": 100,
+        "f": 100
+      },
+      "G11": {
+        "m": 94.85,
+        "f": 95.06
+      },
+      "G12": {
+        "m": 98.73,
+        "f": 100
+      },
+      "total": {
+        "m": 98.66,
+        "f": 99.18
+      }
+    },
+    "2022-2023": {
+      "G7": {
+        "m": 100,
+        "f": 100
+      },
+      "G8": {
+        "m": 100,
+        "f": 100
+      },
+      "G9": {
+        "m": 100,
+        "f": 100
+      },
+      "G10": {
+        "m": 100,
+        "f": 100
+      },
+      "G11": {
+        "m": 100,
+        "f": 100
+      },
+      "G12": {
+        "m": 100,
+        "f": 100
+      },
+      "total": {
+        "m": 100,
+        "f": 100
+      }
+    },
+    "2023-2024": {
+      "G7": {
+        "m": 99.05,
+        "f": 100
+      },
+      "G8": {
+        "m": 100,
+        "f": 100
+      },
+      "G9": {
+        "m": 100,
+        "f": 100
+      },
+      "G10": {
+        "m": 99.15,
+        "f": 100
+      },
+      "G11": {
+        "m": 98.11,
+        "f": 100
+      },
+      "G12": {
+        "m": 98.51,
+        "f": 100
+      },
+      "total": {
+        "m": 99.14,
+        "f": 100
+      }
+    },
+    "2024-2025": {
+      "G7": {
+        "m": 95.69,
+        "f": 100
+      },
+      "G8": {
+        "m": 95.02,
+        "f": 100
+      },
+      "G9": {
+        "m": 96.58,
+        "f": 100
+      },
+      "G10": {
+        "m": 97.3,
+        "f": 100
+      },
+      "G11": {
+        "m": 100,
+        "f": 100
+      },
+      "G12": {
+        "m": 98.77,
+        "f": 100
+      },
+      "total": {
+        "m": 97.23,
+        "f": 100
+      }
+    },
+    "2025-2026": {
+      "G7": {
+        "m": 95.21,
+        "f": 95.62
+      },
+      "G8": {
+        "m": 90,
+        "f": 95
+      },
+      "G9": {
+        "m": 97.14,
+        "f": 99.07
+      },
+      "G10": {
+        "m": 92.37,
+        "f": 95.38
+      },
+      "G11": {
+        "m": 96.59,
+        "f": 99.12
+      },
+      "G12": {
+        "m": 96.77,
+        "f": 98.72
+      },
+      "total": {
+        "m": 94.68,
+        "f": 97.15
+      }
+    }
+  },
+  "dropouts": [
+    {
+      "year": "2021-2022",
+      "male": 5,
+      "female": 0
+    },
+    {
+      "year": "2022-2023",
+      "male": 0,
+      "female": 0
+    },
+    {
+      "year": "2023-2024",
+      "male": 0,
+      "female": 0
+    },
+    {
+      "year": "2024-2025",
+      "male": 0,
+      "female": 0
+    },
+    {
+      "year": "2025-2026",
+      "male": 0,
+      "female": 0
+    }
+  ],
+  "lwd": {
+    "2021-2022": 0,
+    "2022-2023": 0,
+    "2023-2024": 2,
+    "2024-2025": 2,
+    "2025-2026": 2
+  },
+  "teachers": [
+    {
+      "s": "Filipino",
+      "2021-2022": 4,
+      "2022-2023": 4,
+      "2023-2024": 4,
+      "2024-2025": 4,
+      "2025-2026": 4
+    },
+    {
+      "s": "English",
+      "2021-2022": 4,
+      "2022-2023": 4,
+      "2023-2024": 4,
+      "2024-2025": 4,
+      "2025-2026": 4
+    },
+    {
+      "s": "Math",
+      "2021-2022": 4,
+      "2022-2023": 4,
+      "2023-2024": 4,
+      "2024-2025": 4,
+      "2025-2026": 4
+    },
+    {
+      "s": "Science",
+      "2021-2022": 5,
+      "2022-2023": 5,
+      "2023-2024": 5,
+      "2024-2025": 5,
+      "2025-2026": 5
+    },
+    {
+      "s": "Aral. Pan.",
+      "2021-2022": 4,
+      "2022-2023": 4,
+      "2023-2024": 4,
+      "2024-2025": 4,
+      "2025-2026": 4
+    },
+    {
+      "s": "TLE",
+      "2021-2022": 8,
+      "2022-2023": 8,
+      "2023-2024": 9,
+      "2024-2025": 8,
+      "2025-2026": 8
+    },
+    {
+      "s": "MAPEH",
+      "2021-2022": 7,
+      "2022-2023": 7,
+      "2023-2024": 4,
+      "2024-2025": 5,
+      "2025-2026": 5
+    },
+    {
+      "s": "ESP",
+      "2021-2022": 4,
+      "2022-2023": 4,
+      "2023-2024": 4,
+      "2024-2025": 4,
+      "2025-2026": 4
+    },
+    {
+      "s": "SHS",
+      "2021-2022": 6,
+      "2022-2023": 7,
+      "2023-2024": 10,
+      "2024-2025": 11,
+      "2025-2026": 14
+    }
+  ],
+  "seats": [
+    {
+      "g": "Grade 7 & 8",
+      "2021-2022": 270,
+      "2022-2023": 270,
+      "2023-2024": 288,
+      "2024-2025": 288,
+      "2025-2026": 330
+    },
+    {
+      "g": "Grade 9 & 10",
+      "2021-2022": 288,
+      "2022-2023": 288,
+      "2023-2024": 276,
+      "2024-2025": 276,
+      "2025-2026": 294
+    },
+    {
+      "g": "Grade 11 & 12",
+      "2021-2022": 148,
+      "2022-2023": 148,
+      "2023-2024": 234,
+      "2024-2025": 234,
+      "2025-2026": 270
+    }
+  ],
+  "transitions": [
+    {
+      "label": "2021-22→2022-23",
+      "g10": 276,
+      "g11": 153,
+      "pct": 55.4
+    },
+    {
+      "label": "2022-23→2023-24",
+      "g10": 273,
+      "g11": 175,
+      "pct": 64.1
+    },
+    {
+      "label": "2023-24→2024-25",
+      "g10": 221,
+      "g11": 182,
+      "pct": 82.4
+    },
+    {
+      "label": "2024-25→2025-26",
+      "g10": 259,
+      "g11": 200,
+      "pct": 77.2
+    }
+  ],
+  "insightsData": {
+    "2021-2022": {
+      "insights": [
+        "Student enrollment showed a stable population during the school year.",
+        "Classroom utilization was managed through proper scheduling.",
+        "Promotion rates indicated that most students successfully completed their grade level.",
+        "School facilities were sufficient but already showing signs of limited capacity.",
+        "There are 5 dropouts recorded this school year."
+      ],
+      "recommendations": [
+        "Continue monitoring enrollment trends for future classroom planning.",
+        "Improve classroom resources to support student learning.",
+        "Maintain academic programs that help students achieve high promotion rates.",
+        "Begin planning for additional facilities to accommodate future growth."
+      ]
+    },
+    "2022-2023": {
+      "insights": [
+        "The school achieved a zero-dropout rate, showing strong student retention.",
+        "Enrollment remained stable and manageable.",
+        "Teachers and school staff effectively supported student engagement.",
+        "The two-shift schedule helped maximize classroom usage."
+      ],
+      "recommendations": [
+        "Sustain guidance counseling and student support programs.",
+        "Enhance communication with parents to maintain student retention.",
+        "Continue improving classroom management strategies.",
+        "Explore opportunities for additional classroom construction."
+      ]
+    },
+    "2023-2024": {
+      "insights": [
+        "Promotion rates remained under the Excellent and Good categories.",
+        "Students showed consistent academic progress.",
+        "Classroom and facility monitoring became more organized.",
+        "School resources were utilized efficiently despite limited classrooms."
+      ],
+      "recommendations": [
+        "Provide academic intervention programs for struggling learners.",
+        "Improve access to modern educational tools and equipment.",
+        "Strengthen data-driven monitoring for student performance."
+      ]
+    },
+    "2024-2025": {
+      "insights": [
+        "Enrollment trends continued to increase gradually.",
+        "Classroom capacity became more challenging due to the growing student population.",
+        "The school maintained effective facility utilization.",
+        "Student retention remained strong."
+      ],
+      "recommendations": [
+        "Add more learning spaces and improve existing facilities (2-3 more classrooms).",
+        "Increase school resources such as chairs, fans, and instructional materials.",
+        "Continue implementing student engagement activities.",
+        "Improve long-term planning for school expansion."
+      ]
+    },
+    "2025-2026": {
+      "insights": [
+        "The dashboard reflects continuous monitoring of enrollment, facilities, and academic performance.",
+        "Zero-dropout achievement was sustained.",
+        "Promotion rates remained high across grade levels.",
+        "The school demonstrated effective operational management despite limited resources."
+      ],
+      "recommendations": [
+        "Expand classroom infrastructure to reduce dependency on shifting schedules.",
+        "Maintain strong academic and student support programs.",
+        "Invest in technology integration and digital learning tools.",
+        "Use dashboard analytics regularly for decision-making and future planning."
+      ]
+    }
+  }
+}
